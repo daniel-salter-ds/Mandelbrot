@@ -1,2 +1,4 @@
 # Mandelbrot
-Rescalable sketch of the mandelbrot set
+Sketch of the mandelbrot set.
+
+Run in the Processing app. 
